@@ -23,9 +23,3 @@ This project demonstrates a basic implementation of a CRUD (Create, Read, Update
 - **Form Handling**: Improved skills in processing and validating form data submitted from a web interface.
 - **Error Handling**: Implemented basic error handling and debugging techniques to enhance user experience and application stability.
 
-## Getting Started
-To run this application locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/jsp-crud.git
